@@ -35,5 +35,15 @@ We also include the weights for classification tasks in the `weights` directory,
 
 ## Credit
 
-We used the evaluation portions of the code from the [reference BGRL implementation](https://github.com/nerdslab/bgrl) and the [reference AFGRL implementation](https://github.com/Namkyeong/AFGRL).
+We used code from [Link Prediction with Non-Contrastive Learning](https://github.com/snap-research/non-contrastive-link-prediction). We also used the evaluation portions of the code from the [reference BGRL implementation](https://github.com/nerdslab/bgrl) and the [reference AFGRL implementation](https://github.com/Namkyeong/AFGRL).
 
+If you use this code, please cite:
+
+```
+@article{shiao2023carl,
+  title={CARL-G: Clustering-Accelerated Representation Learning on Graphs},
+  author={Shiao, William and Saini, Uday Singh and Liu, Yozen and Zhao, Tong and Shah, Neil and Papalexakis, Evangelos E},
+  journal={arXiv preprint arXiv:2306.06936},
+  year={2023}
+}
+```
